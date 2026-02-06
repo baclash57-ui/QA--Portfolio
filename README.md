@@ -1,39 +1,30 @@
-# QA--Portfolio
-NDA Safe QA work samples
+# Candy E-commerce Site - QA Overview
 
-## Project Overview
+## Overview
 
-This project focuses on testing a public-facing e-commerce web application.
+This is an e-commerce site focused on the purchase and distribution of various types of candy. The primary user flow includes browsing, searching, adding products to the cart, and completing checkout. Any disruption in these flows could significantly impact user experience and business performance.
 
-The application allows users to:
-- Browse products
-- View product details
-- Add and remove items from the cart
-- Navigate through informational pages via the footer and header links
+## Critical User Flows
 
-Testing was performed to validate core user flows, UI behavior, and functional accuracy.
+1. Searching for a product
+2. Using filter options
+3. Browsing products by category
+4. Adding items to the cart
+5. Proceeding to checkout
+6. Paying for items in the cart
+7. Viewing FAQs
 
-## Assumptions
+## In-Scope Areas
 
-- Users do not need to be logged in to add items to the cart
-- Product availability and pricing are managed by the backend
-- Payment processing is handled by a third-party service
+1. Home page navigation
+2. Product discovery (search, filter, browsing by category)
+3. Cart section
+4. User interaction and overall user experience
 
-  ## Repository Structure
+## Out-of-Scope Areas
 
-- Website overview/
-  -Overview and core user flows of the site 
-- Test-Cases/
-  - Functional test cases covering core user journeys
-- Bug-Reports/
-  - Documented defects with steps to reproduce and expected results
-- Test-Scenarios/
-  - High-level testing scenarios derived from requirements
- 
-    ## Tools & Techniques
-
-- Manual testing
-- Test case design
-- Bug reporting
-- Exploratory testing
-- GitHub for version control and documentation
+1. Payment processing and related functionality
+2. Admin features
+3. Minor cosmetic issues (typos, text overlay, minor layout inconsistencies)
+4. Sections providing additional information (except FAQs)
+5. About Us section
