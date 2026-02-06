@@ -1,7 +1,7 @@
 # QA--Portfolio
 NDA Safe QA work samples
 
-## Website Overview
+## Project Overview
 
 This project focuses on testing a public-facing e-commerce web application.
 
