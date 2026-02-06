@@ -21,6 +21,8 @@ Testing was performed to validate core user flows, UI behavior, and functional a
 
   ## Repository Structure
 
+- Website overview/
+  -Overview and core user flows of the site 
 - Test-Cases/
   - Functional test cases covering core user journeys
 - Bug-Reports/
