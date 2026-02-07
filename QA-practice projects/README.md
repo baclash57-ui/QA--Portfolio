@@ -1,4 +1,4 @@
-# QA--Portfolio
+# QA-Portfolio
 NDA Safe QA work samples
 
 ## Project Overview
