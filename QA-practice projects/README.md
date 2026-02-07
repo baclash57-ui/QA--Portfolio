@@ -29,8 +29,13 @@ Testing was performed to validate core user flows, UI behavior, and functional a
   - Documented defects with steps to reproduce and expected results
 - Test-Scenarios/
   - High-level testing scenarios derived from requirements
- 
-    ## Tools & Techniques
+
+ ### Bug Reports
+This repository includes sample anonymized bug reports identified
+during exploratory testing.
+
+
+ ## Tools & Techniques
 
 - Manual testing
 - Test case design
